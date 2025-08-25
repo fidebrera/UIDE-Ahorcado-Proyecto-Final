@@ -23,6 +23,8 @@ Sin embargo, de nada sirve el aplicar las condicionantes sino tenemos el lenguaj
 que los entienda y traduzca a mayores posibilidades, hablamos entonces de la gran
 variedad de lenguajes de programación y las enormes bibliotecas que los contienen.
 
+<img width="3840" height="2285" alt="Untitled diagram _ Mermaid Chart-2025-08-11-190458" src="https://github.com/user-attachments/assets/0cdf347e-3adf-4285-9549-cc0681c04475" />
+
 Se incluye en este proyecto, los diagramas de flujo con los que se planificó y se
 expuso la manera de operar de los condicionantes para generar el juego del "Ahorcado"
 
