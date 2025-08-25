@@ -1,10 +1,10 @@
 # UIDE-Ahorcado-Proyecto-Final
 LOGICA DE PROGRAMACION 2-ECC-1A Proyecto Final
 
-.                                     UIDE
-.                      LOGICA DE PROGRAMACION 2-ECC-1A
+                                     UIDE
+                      LOGICA DE PROGRAMACION 2-ECC-1A
 
- .                             Juan Fidel Cabrera
+                              Juan Fidel Cabrera
                                    Presenta
 
                                                                               
