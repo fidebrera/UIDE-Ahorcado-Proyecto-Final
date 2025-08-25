@@ -1,38 +1,15 @@
 # UIDE-Ahorcado-Proyecto-Final
 LOGICA DE PROGRAMACION 2-ECC-1A Proyecto Final
 
-                                     UIDE
-                      LOGICA DE PROGRAMACION 2-ECC-1A
+.                                     UIDE
+.                      LOGICA DE PROGRAMACION 2-ECC-1A
 
-                              Juan Fidel Cabrera
+ .                             Juan Fidel Cabrera
                                    Presenta
 
-
-  ______ _                 _    _  ____  _____   _____          _____   ____  
- |  ____| |          /\   | |  | |/ __ \|  __ \ / ____|   /\   |  __ \ / __ \ 
- | |__  | |         /  \  | |__| | |  | | |__) | |       /  \  | |  | | |  | |
- |  __| | |        / /\ \ |  __  | |  | |  _  /| |      / /\ \ | |  | | |  | |
- | |____| |____   / ____ \| |  | | |__| | | \ \| |____ / ____ \| |__| | |__| |
- |______|______| /_/    \_\_|  |_|\____/|_|  \_\\_____/_/    \_\_____/ \____/ 
                                                                               
 <img width="512" height="512" alt="AHORCADO_ICO" src="https://github.com/user-attachments/assets/9b0f9258-26dc-4740-935d-c91da2369011" />
-                                       
-===============================================================================
-|                                                                             |
-|   SCORE: 0000                                           HIGH SCORE:  10000  |
-|                                                                             |
-|                                    +---+                                    |
-|                                    |   |                                    |
-|                                    O   |                                    |
-|                                   /|\  |                                    |
-|                                   / \  |                                    |
-|                                        |                                    |
-|                                 =========                                   |
-|                                                                             |
-|                                                                             |
-|                        <<  PRESS  START  (ENTER)  >>                        |
-|                                                                             |
-===============================================================================
+
 
 Me gusta comparar el desarrollo del código como el avance de un afluente de agua.
 El programa fluye siguiendo el camino que abran las condicionantes al igual que
