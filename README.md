@@ -1,11 +1,12 @@
 # UIDE-Ahorcado-Proyecto-Final
 LOGICA DE PROGRAMACION 2-ECC-1A Proyecto Final
 
-    UIDE
+                                     UIDE
                       LOGICA DE PROGRAMACION 2-ECC-1A
 
                               Juan Fidel Cabrera
                                    Presenta
+
 
   ______ _                 _    _  ____  _____   _____          _____   ____  
  |  ____| |          /\   | |  | |/ __ \|  __ \ / ____|   /\   |  __ \ / __ \ 
@@ -14,7 +15,8 @@ LOGICA DE PROGRAMACION 2-ECC-1A Proyecto Final
  | |____| |____   / ____ \| |  | | |__| | | \ \| |____ / ____ \| |__| | |__| |
  |______|______| /_/    \_\_|  |_|\____/|_|  \_\\_____/_/    \_\_____/ \____/ 
                                                                               
-                                                                              
+<img width="512" height="512" alt="AHORCADO_ICO" src="https://github.com/user-attachments/assets/9b0f9258-26dc-4740-935d-c91da2369011" />
+                                       
 ===============================================================================
 |                                                                             |
 |   SCORE: 0000                                           HIGH SCORE:  10000  |
@@ -46,4 +48,7 @@ variedad de lenguajes de programación y las enormes bibliotecas que los contien
 
 Se incluye en este proyecto, los diagramas de flujo con los que se planificó y se
 expuso la manera de operar de los condicionantes para generar el juego del "Ahorcado"
+
+<img width="1712" height="588" alt="DIAGRAMA DE CASOS DE USO" src="https://github.com/user-attachments/assets/03ed4eca-fc77-468a-ad24-4b5004632c7d" />
+
 
